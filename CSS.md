@@ -44,3 +44,8 @@ One might be tempted to go with `ul:first-child`.
   background: red;
 }
 ```
+
+## Text
+
+### Truncating text inside a flex child
+https://codepen.io/chriscoyier/pen/zqedEr
