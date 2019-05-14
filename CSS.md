@@ -49,3 +49,14 @@ One might be tempted to go with `ul:first-child`.
 
 ### Truncating text inside a flex child
 https://codepen.io/chriscoyier/pen/zqedEr
+
+## Positioning
+
+### Center something that is `position: absolute;`
+
+```css
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+```
